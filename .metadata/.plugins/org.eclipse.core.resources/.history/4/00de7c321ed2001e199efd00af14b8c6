@@ -1,0 +1,5 @@
+package com.jspider.one_to_many.dto;
+
+public class CompanyDTO {
+
+}
