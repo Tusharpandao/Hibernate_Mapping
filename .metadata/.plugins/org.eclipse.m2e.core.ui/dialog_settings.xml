@@ -26,13 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.jspider.many_to_many"/>
+			<item value="com.jspiders.onetoone_by"/>
 		</list>
 		<list key="groupId">
-			<item value="com.jspider"/>
+			<item value="com.jspiders"/>
 		</list>
 		<list key="artifactId">
-			<item value="many_to_many"/>
+			<item value="onetoone_by"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
